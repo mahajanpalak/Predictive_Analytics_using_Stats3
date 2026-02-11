@@ -43,7 +43,7 @@ z = x + 1.5 \sin(0.6x)
 ## 📈 Distribution of Transformed Data
 The empirical distribution of the transformed variable \( z \) is visualized below.
 
-![Screenshot](screenshots/Screenshot%202026-02-11%20215504.png)
+![Transformed Distribution](screenshots/Screenshot%202026-02-11%20215522.png)
 
 ---
 
