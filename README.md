@@ -43,7 +43,7 @@ z = x + 1.5 \sin(0.6x)
 ## 📈 Distribution of Transformed Data
 The empirical distribution of the transformed variable \( z \) is visualized below.
 
-![Transformed Data Distribution]
+![Screenshot](screenshots/Screenshot%202026-02-11%20215504.png)
 
 ---
 
@@ -84,7 +84,7 @@ The following plot compares:
 - The empirical distribution of the transformed data
 - The estimated PDF obtained from GAN-generated samples
 
-![PDF Approximation using GAN]
+![Screenshot](screenshots/Screenshot%202026-02-11%20215504.png)
 
 ---
 
